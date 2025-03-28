@@ -111,6 +111,7 @@ document_outline: |
   and correspondent banking risks.
 document:
   repo: https://github.com/axiys/knowledge.git
+  commit: 7e53c8760db36836970d10a6fd84a712ee86b833
   patterns:
     - fincrime/CFCS Certification Examination Study Manual.md
     - fincrime/Certified Anti-Money Laundering Specialist Study Guide.md
