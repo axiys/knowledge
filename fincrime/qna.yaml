@@ -113,6 +113,6 @@ document:
   repo: https://github.com/axiys/knowledge.git
   commit: 6306d8103d7d55cf79877f7f7a59885c2dfdad93
   patterns:
-    - fincrime/CFCS Certification Examination Study Manual Preparing For The Certified Financial Crime Specialist Examination.md
+    - fincrime/CFCS Certification Examination Study Manual.md
     - fincrime/Certified Anti-Money Laundering Specialist Study Guide.md
     - fincrime/Fraud Examiners Manual.md
